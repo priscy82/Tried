@@ -1,7 +1,7 @@
 {
-  "name": "Telegram ban script",
+  "name": "Teleban script",
   "version": "1.0.0",
-  "description": " A Telegram ban script made by 𝕴 𝖆𝖒 𝖍𝖎𝖒",
+  "description": " A Telegram script made by 𝕴 𝖆𝖒 𝖍𝖎𝖒",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
